@@ -1,0 +1,14 @@
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\bin\Debug\net6.0\WeaponTask.exe
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\bin\Debug\net6.0\WeaponTask.deps.json
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\bin\Debug\net6.0\WeaponTask.runtimeconfig.json
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\bin\Debug\net6.0\WeaponTask.dll
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\bin\Debug\net6.0\WeaponTask.pdb
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.AssemblyInfoInputs.cache
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.AssemblyInfo.cs
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.csproj.CoreCompileInputs.cache
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.dll
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\obj\Debug\net6.0\refint\WeaponTask.dll
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.pdb
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.genruntimeconfig.cache
+C:\Users\Ravan\source\repos\WeaponTask\WeaponTask\obj\Debug\net6.0\ref\WeaponTask.dll

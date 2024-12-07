@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ravan\\source\\repos\\WeaponTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA38F82-9080-42DA-8E25-9441028AA075}|WeaponTask\\WeaponTask.csproj|c:\\users\\ravan\\source\\repos\\weapontask\\weapontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA38F82-9080-42DA-8E25-9441028AA075}|WeaponTask\\WeaponTask.csproj|solutionrelative:weapontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA38F82-9080-42DA-8E25-9441028AA075}|WeaponTask\\WeaponTask.csproj|c:\\users\\ravan\\source\\repos\\weapontask\\weapontask\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA38F82-9080-42DA-8E25-9441028AA075}|WeaponTask\\WeaponTask.csproj|solutionrelative:weapontask\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\source\\repos\\WeaponTask\\WeaponTask\\Weapon.cs",
+              "RelativeDocumentMoniker": "WeaponTask\\Weapon.cs",
+              "ToolTip": "C:\\Users\\Ravan\\source\\repos\\WeaponTask\\WeaponTask\\Weapon.cs",
+              "RelativeToolTip": "WeaponTask\\Weapon.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAH4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:30:43.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan\\source\\repos\\WeaponTask\\WeaponTask\\Program.cs",
+              "RelativeDocumentMoniker": "WeaponTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Ravan\\source\\repos\\WeaponTask\\WeaponTask\\Program.cs",
+              "RelativeToolTip": "WeaponTask\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:30:11.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
